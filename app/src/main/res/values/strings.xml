@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Data Transfer Demo</string>
+    <string name="label_nim">NIM :</string>
+    <string name="label_nama">Nama :</string>
+    <string name="label_alamat">Alamat :</string>
+    <string name="input_title">Input Data</string>
+    <string name="output_title">Hasil Output</string>
+</resources>
